@@ -1,0 +1,70 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Dataset / Large files
+# =========================
+data/
+datasets/
+dataset/
+artifacts/
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.csv
+*.tsv
+
+# =========================
+# Model files
+# =========================
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.model
+*.bin
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+*.log
+outputs/
+results/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Git LFS cache (optional)
+# =========================
+.git/lfs/

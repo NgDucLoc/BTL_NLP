@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+Pillow
+numpy
+requests
+python-dotenv
+qdrant-client
+together
+timm
+einops
+open-clip-torch

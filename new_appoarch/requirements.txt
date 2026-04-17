@@ -1,0 +1,13 @@
+ultralytics>=8.2.0
+opencv-python>=4.10.0.84
+numpy>=1.26.0
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.41.0
+sentencepiece>=0.2.0
+accelerate>=0.31.0
+datasets>=2.19.0
+tqdm>=4.66.0
+Pillow>=10.3.0
+faiss-cpu>=1.8.0
+scikit-learn>=1.5.0
