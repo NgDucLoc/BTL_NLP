@@ -24,7 +24,7 @@ data/
 datasets/
 dataset/
 artifacts/
-*.zip
+dataset.zip
 *.tar
 *.gz
 *.rar
